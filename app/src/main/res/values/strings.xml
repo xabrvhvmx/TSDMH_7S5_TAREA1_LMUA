@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_TAREA1_LMUA</string>
+
+    <!-- Pantalla 1: Principal -->
+    <string name="p1titulo">Envío de datos</string>
+    <string name="p1lbl1">Ingrese su nombre:</string>
+    <string name="p1h1">Nombre completo</string>
+    <string name="p1btn1">Enviar Datos</string>
+    <string name="p1lblEdad">Ingrese su edad:</string>
+    <string name="p1hEdad">Edad en años</string>
+    <string name="p1errorNombre">Por favor, ingrese su nombre</string>
+    <string name="p1errorEdad">Por favor, ingrese su edad</string>
+
+    <!-- Pantalla 2: Recibe -->
+    <string name="p2titulo">Recepción de Información</string>
+    <string name="p2Lbl1">La información proporcionada es:</string>
+    <string name="p2SinNombre">No se proporcionó un nombre.</string>
+    <string name="p2MayorEdad">Tienes %1$d años. Eres mayor de edad.</string>
+    <string name="p2MenorEdad">Tienes %1$d años. Eres menor de edad.</string>
+    <string name="p2SinEdad">No se ingresó una edad válida.</string>
+</resources>
